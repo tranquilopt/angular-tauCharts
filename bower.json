@@ -1,0 +1,28 @@
+{
+  "name": "angular-tauCharts",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tranquilo/angular-tauCharts",
+  "authors": [
+    "Ricardo Cunha <ricardocunha@tranquilo.pt>"
+  ],
+  "description": "Angular Module with Provider and Directive for tauCharts",
+  "main": "angular-tauCharts.js",
+  "keywords": [
+    "tauCharts",
+    "angular",
+    "service",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "tauCharts": "~0.5.2"
+  }
+}
