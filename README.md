@@ -1,6 +1,6 @@
 # angular-tauCharts
-Angular Module with Provider and Directive for tauCharts
+Angular Module with Service for tauCharts
 
 ##Changelog
-###v.0.0.1
-- *On Development*
+### v.1.0.0
+- Runs tauCharts on Angular context.
